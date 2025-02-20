@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2.5em; margin-top: 20px;">Hi there, I'm aiwandering24! 👋</h1>
+<h1 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2.5em; margin-top: 20px;">Hi there, I'm AI Wandering Soul! 👋</h1>
 
 <!-- About Me Section -->
 <h2 align="center" style="color: #4A90E2; font-family: 'Arial', sans-serif; font-size: 2em; margin-top: 20px;">🎓 About Me</h2>
